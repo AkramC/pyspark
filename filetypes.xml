@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="sameple_file" type="PLAIN_TEXT" />
       <mapping pattern="primenumbers" type="PLAIN_TEXT" />
+      <mapping pattern="Moving_data_sample" type="PLAIN_TEXT" />
       <mapping pattern="word_count" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
     </extensionMap>
